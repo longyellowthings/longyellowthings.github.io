@@ -5,6 +5,6 @@ draft = false
 +++
 
 
-{{ $image := .Resources.GetMatch "sunset.jpg" }}
-<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
+{{ $image := resources.GetRemote "https://gohugo.io/img/hugo-logo.png" }}
 
+<img src="https://gohugo.io/img/hugo-logo.png">
