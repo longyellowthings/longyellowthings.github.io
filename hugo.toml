@@ -4,7 +4,7 @@ title = 'Fetitas de Queso'
 theme = 'PaperMod'
 
 [[menu.main]]
-name = "Different Posts"
-url = "/differentposts"
+name = "Recetas"
+url = "https://agusjota.notion.site/agusjota/a74511295c8c4419a832066638ae1427?v=6484224f1ac34d3ea8b41e27bcdf1283"
 weight = 1
 
