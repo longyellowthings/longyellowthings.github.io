@@ -2,3 +2,9 @@ baseURL = 'https://longyellowthings.github.io/'
 languageCode = 'en-us'
 title = 'Fetitas de Queso'
 theme = 'PaperMod'
+
+[[menu.main]]
+name = "Different Posts"
+url = "/differentposts"
+weight = 1
+
