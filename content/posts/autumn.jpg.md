@@ -1,7 +1,7 @@
 +++
 title = 'Autumn.jpg'
 date = 2024-01-10T21:01:28-03:00
-draft = true
+draft = false
 +++
 
 ![autumn](https://ia601007.us.archive.org/13/items/theoriginalfilesofsomewindowswallpapers/G719102013.jpg)
