@@ -1,6 +1,6 @@
 +++
 title = 'Miremos en el tiempo'
-date = 2024-01-24T13:11:20-03:00
+date = 2024-01-26T13:11:20-03:00
 draft = false
 +++
 
